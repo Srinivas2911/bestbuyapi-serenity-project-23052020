@@ -1,0 +1,8 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Product tags test","This test will create a new Product in the list","SUCCESS","2020-05-25T23:57:27.318+01:00[Europe/London]","0.0","33.06"
+"Product tags test","This test will create a new Product in the list","SUCCESS","2020-05-25T23:57:27.318+01:00[Europe/London]","0.0","33.06"
+"Product tags test","Deleting the Product information by UserId ","SUCCESS","2020-05-25T23:58:03.765+01:00[Europe/London]","0.0","2.89"
+"Product tags test","Getting the information of all the products","SUCCESS","2020-05-25T23:58:06.656+01:00[Europe/London]","0.0","3.68"
+"Product tags test","Getting the information of the product with ID","SUCCESS","2020-05-25T23:58:10.337+01:00[Europe/London]","0.0","2.11"
+"Product tags test","Updating the product information and verifying ","SUCCESS","2020-05-25T23:58:12.451+01:00[Europe/London]","0.0","2.11"
+"Product tags test","Updating the product information and verifying ","SUCCESS","2020-05-25T23:58:12.451+01:00[Europe/London]","0.0","2.11"

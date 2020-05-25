@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.bestbuyapi.testsuite.StoresTagsTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.827 sec - in com.bestbuyapi.testsuite.StoresTagsTest

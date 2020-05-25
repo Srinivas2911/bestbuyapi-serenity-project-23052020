@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Product tags test","Getting the information of all the products","SUCCESS","2020-05-25T23:58:06.656+01:00[Europe/London]","0.0","3.68"
+"Stores tags test","Getting the information of all the stores","SUCCESS","2020-05-25T23:58:23.009+01:00[Europe/London]","0.0","0.81"

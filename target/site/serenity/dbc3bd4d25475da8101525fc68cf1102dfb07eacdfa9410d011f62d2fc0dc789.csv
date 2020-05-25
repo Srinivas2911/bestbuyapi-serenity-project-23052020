@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Product tags test","Deleting the Product information by UserId ","SUCCESS","2020-05-25T23:58:03.765+01:00[Europe/London]","0.0","2.89"
+"Stores tags test","Deleting the Store information by Id ","SUCCESS","2020-05-25T23:58:22.310+01:00[Europe/London]","0.0","0.69"

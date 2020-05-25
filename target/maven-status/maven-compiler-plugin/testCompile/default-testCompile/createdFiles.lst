@@ -1,0 +1,5 @@
+com\bestbuyapi\crudtest\StoresCRUDTest.class
+com\bestbuyapi\crudtest\ProductCRUDTest.class
+com\bestbuyapi\testsuite\ProductTagsTest.class
+com\bestbuyapi\testsuite\StoresTagsTest.class
+com\bestbuyapi\testbase\TestBase.class

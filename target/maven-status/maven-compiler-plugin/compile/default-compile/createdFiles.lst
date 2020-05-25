@@ -1,0 +1,6 @@
+com\bestbuyapi\model\StoresPojo.class
+com\bestbuyapi\steps\StoresSteps.class
+com\bestbuyapi\model\ProductPojo.class
+com\bestbuyapi\constant\Endpoints.class
+com\bestbuyapi\steps\ProductSteps.class
+com\bestbuyapi\utils\PropertyReader.class

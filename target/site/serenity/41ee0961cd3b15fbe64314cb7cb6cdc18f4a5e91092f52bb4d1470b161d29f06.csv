@@ -1,0 +1,8 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Stores tags test","This test will Creating a new Store","SUCCESS","2020-05-25T23:58:21.144+01:00[Europe/London]","0.0","1.16"
+"Stores tags test","This test will Creating a new Store","SUCCESS","2020-05-25T23:58:21.144+01:00[Europe/London]","0.0","1.16"
+"Stores tags test","Deleting the Store information by Id ","SUCCESS","2020-05-25T23:58:22.310+01:00[Europe/London]","0.0","0.69"
+"Stores tags test","Getting the information of all the stores","SUCCESS","2020-05-25T23:58:23.009+01:00[Europe/London]","0.0","0.81"
+"Stores tags test","Getting the information of the Store with ID","SUCCESS","2020-05-25T23:58:23.845+01:00[Europe/London]","0.0","1.08"
+"Stores tags test","This test will update the store information and verify the updated information","SUCCESS","2020-05-25T23:58:24.928+01:00[Europe/London]","0.0","1.27"
+"Stores tags test","This test will update the store information and verify the updated information","SUCCESS","2020-05-25T23:58:24.928+01:00[Europe/London]","0.0","1.27"
